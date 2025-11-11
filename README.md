@@ -4,7 +4,7 @@ This project predicts NFL game outcomes using historical game data, betting spre
 
 ---
 
-### 🧠 Methods Used
+ Methods Used
 - Data Cleaning & Feature Selection (Pandas)
 - Train/Test Split (scikit-learn)
 - Logistic Regression Classification
@@ -12,12 +12,12 @@ This project predicts NFL game outcomes using historical game data, betting spre
 
 ---
 
-### 📊 Model Accuracy
+ Model Accuracy
 **~71.7% accuracy** predicting whether the home team wins.
 
 ---
 
-### 🏈 Why This Matters
+ Why This Matters
 This project demonstrates real sports analytics skills:
 - Working with large datasets (14,000+ games)
 - Using Python for data analysis and modeling
@@ -26,7 +26,7 @@ This project demonstrates real sports analytics skills:
 
 ---
 
-### 🔥 Future Improvements
+ Future Improvements
 - Add advanced metrics (EPA, DVOA, QB rating, injuries)
 - Compare models (Random Forest, XGBoost, Neural Networks)
 - Test accuracy *by season/week* to improve betting prediction quality
