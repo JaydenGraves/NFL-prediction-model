@@ -13,7 +13,7 @@ This project predicts NFL game outcomes using historical game data, betting spre
 ---
 
 ### 📊 Model Accuracy
-**~54% accuracy** predicting whether the home team wins.
+**~71.7% accuracy** predicting whether the home team wins.
 
 ---
 
